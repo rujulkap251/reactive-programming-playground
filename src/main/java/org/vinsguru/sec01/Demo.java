@@ -1,4 +1,4 @@
-package org.vinsguru;
+package org.vinsguru.sec01;
 
 
 import org.slf4j.Logger;
